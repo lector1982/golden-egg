@@ -1,0 +1,12 @@
+$kurale: "Kurale", serif;
+$os: "Open Sans", sans-serif;
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+body {
+	background: #000;
+  font-family: $os;
+}
